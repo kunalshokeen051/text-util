@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+.navbar {
+  box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+.form {
+  border: 2px solid rgb(0, 0, 0);
+}
+
+.form textarea {
+  outline: none;
+}
